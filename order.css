@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   background-color: #000000;
+    color:aliceblue
+}
+.nav{
+    background-color: #000000;
+    color: aliceblue;
+    padding: 30px;
+}
+ul,h1,li{
+    display: inline-block;
+}
+ul{
+    margin-left: 60%;
+}
+input[type="submit"]{
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 20px;
+    background-color: gray;
+}
