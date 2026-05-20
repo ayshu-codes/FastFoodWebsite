@@ -5,7 +5,7 @@
     color:aliceblue
 }
 .nav{
-    background-color: #000000;
+    background-color: hsl(0, 0%, 0%);
     color: aliceblue;
     padding: 30px;
 }
@@ -30,7 +30,7 @@ ul{
     text-align: center;
 }
 .main img{
-    height: 300px;
+    height: 350px;
     width: 100%;
 }
 ul{
